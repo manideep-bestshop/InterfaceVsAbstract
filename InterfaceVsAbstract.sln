@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExp", "InterfaceExp\InterfaceExp.csproj", "{AFE41486-79DA-4714-9343-45F46512D52A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcFromScratch", "MvcFromScratch\MvcFromScratch.csproj", "{73D49DE7-57E6-49D5-948E-F7AC30F22A87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AFE41486-79DA-4714-9343-45F46512D52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE41486-79DA-4714-9343-45F46512D52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE41486-79DA-4714-9343-45F46512D52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D49DE7-57E6-49D5-948E-F7AC30F22A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D49DE7-57E6-49D5-948E-F7AC30F22A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D49DE7-57E6-49D5-948E-F7AC30F22A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D49DE7-57E6-49D5-948E-F7AC30F22A87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
